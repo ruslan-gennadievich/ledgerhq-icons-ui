@@ -1,3 +1,4 @@
+// @ts-nocheck
 import * as React from "react";
 import  { G, Path, Defs, ClipPath } from "react-native-svg";
 import Svg from "./StyledSvg";
